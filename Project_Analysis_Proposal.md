@@ -18,7 +18,7 @@ Following data curation, candidate PCWDE gene counts and CAZy family assignments
 I believe the analyses proposed here are feasible for three reasons. First, I have already selected the ten species and identified their reference genomes and annotation files in GenBank. Second, I have prior experience with Bash scripting (de novo genome assembly and annotation) and R (figure building), which will provide a foundation for using new methods and packages (e.g., dbCAN, pheatmap, ggplot2). Third, I have identified and prepared preliminary scripts for running dbCAN and conducting comparative analyses in R. Extensive online documentation, published workflows on GitHub, and tutorials are also available to help troubleshoot any challenges encountered. These preparations should allow me to complete the HPC3 analyses in a week, and the R analyses within two weeks.  
 
 
-## Citations
+## References
 McKenna DD, Shin S, Ahrens D, Balke M, Beza-Beza C, Clarke DJ, Donath A, Escalona HE, Friedrich F, Letsch H, Liu S, Maddison D, Mayer C, Misof B, Murin PJ, Niehuis O, Peters RS, Podsiadlowski L, Pohl H, Scully ED, Yan EV, Zhou X, Ślipiński A, Beutel RG. 2019. The evolution and genomic basis of beetle diversity. Proc Natl Acad Sci USA 116: 24729–24737.  https://doi.org/10.1073/pnas.1909655116⁠￼
 
 Shin NR, Kirsch R, Vogel H, Riedel A, Kaltenpoth M, Pauchet Y. 2026. Evolutionary dynamics of plant cell wall-degrading enzymes reflects feeding ecology in weevils. Commun Biol 9: 1243. https://doi.org/10.1038/s42003-026-10927-0
