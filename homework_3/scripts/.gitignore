@@ -1,0 +1,6 @@
+#sequencing data
+*.fasta.gz
+*.gtf.gz
+
+#checksums
+*md5sum.txt
