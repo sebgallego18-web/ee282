@@ -11,4 +11,5 @@ md5sum -c --ignore-missing md5sum.txt
 
 # Step 3. Genome summary
 faSize dmel-all-chromosome-r6.66.fasta.gz > hw3_genome_summary.txt
-less hw3_genome_summary.sh	 
+echo "Genome Summary outputted to hw3_genome_summmary.txt"
+#less hw3_genome_summary.sh	 
