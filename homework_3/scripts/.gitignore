@@ -4,3 +4,6 @@
 
 #checksums
 *md5sum.txt
+
+#other files
+*.txt
