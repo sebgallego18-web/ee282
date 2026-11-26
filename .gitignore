@@ -1,0 +1,6 @@
+#database dir
+dbcan_db/
+
+#files
+*.gz
+*md5sum.txt
